@@ -8,6 +8,6 @@ risky permissions or choosing safer app alternatives
 
 # Demo
 
-Try the demo here
+Try the demo here :
 
 [App Privacy Scout](https://vel.stow-protocol.com/)
