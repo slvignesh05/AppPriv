@@ -5,3 +5,9 @@ mobile and web applications. By analyzing app permissions and privacy
 policies locally in the browser, it provides a color-coded risk score 
 (Red/Yellow/Green) and actionable recommendations, such as disabling 
 risky permissions or choosing safer app alternatives
+
+# Demo
+
+Try the demo here
+
+[App Privacy Scout](https://vel.stow-protocol.com/)
